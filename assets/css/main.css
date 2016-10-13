@@ -1,0 +1,26 @@
+.event_details{
+	border: 1px solid #BDBABA;
+	padding: 10px;
+	background-color: #ECECEC;
+}
+
+.event_details a{
+	color: black;
+}	
+
+.event_details:hover{
+	box-shadow: 10px 10px 5px #BDBABA;
+}
+
+.event_name{
+	font-size: 1.3em;
+}
+
+.eventAuthor{
+	font-size: 12px;
+	margin-top: -8px;
+}
+
+.registered_user_title{
+	font-size: 1.3em;
+}
